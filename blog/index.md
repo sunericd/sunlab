@@ -5,7 +5,7 @@ nav:
   tooltip: Updates and announcements
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}News and Announcements
+# {% include icon.html icon="fa-solid fa-volume-high" %}News and Announcements
 
 {% include section.html %}
 
