@@ -12,11 +12,9 @@ nav:
 ## Highlighted
 
 {% include citation.html lookup="Spatial transcriptomic clocks reveal cell proximity effects in brain ageing" style="rich" %}
-{% include citation.html lookup="TISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics
-    improves downstream analyses" style="rich" %}
+{% include citation.html lookup="TISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics improves downstream analyses" style="rich" %}
 {% include citation.html lookup="Dynamic visualization of high-dimensional data" style="rich" %}
-{% include citation.html lookup="Cell-type-specific aging clocks to quantify aging and rejuvenation in neurogenic
-    regions of the brain" style="rich" %}
+{% include citation.html lookup="Cell-type-specific aging clocks to quantify aging and rejuvenation in neurogenic regions of the brain" style="rich" %}
 {% include citation.html lookup="Optimal control of aging in complex networks" style="rich" %}
 
 
