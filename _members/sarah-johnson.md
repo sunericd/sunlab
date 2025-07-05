@@ -1,11 +1,11 @@
 ---
-name: Sarah Johnson
+name: First Last
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: Graduate Student
+role: phd
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: placeholder@mit.edu
+  twitter: placeholder
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Placeholder
