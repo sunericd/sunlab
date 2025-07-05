@@ -12,7 +12,7 @@ If you're interested in our research, feel free to reach out to us through email
 {%
   include button.html
   type="email"
-  text="edsun@mit.edu"
+  text="Email"
   link="edsun@mit.edu"
 %}
 {%
