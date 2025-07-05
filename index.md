@@ -5,7 +5,7 @@
 
 #### Modeling aging and multi-scale biology
 
-We develop new computational and machine learning models to study complex biology across multiple scales with applications in aging, rejuvenation, and immune interactions. We leverage experimental approaches to improve and test our models.
+We develop new computational and machine learning models to study complex biology across multiple scales with applications in aging, rejuvenation, and immune interactions. We leverage experimental approaches to improve and test our models. 
 
 {% include section.html %}
 
