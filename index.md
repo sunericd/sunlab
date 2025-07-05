@@ -1,7 +1,7 @@
 ---
 ---
 
-# sunericd's Website
+# The Sun Lab
 
 #### Modeling aging and multi-scale biology
 
