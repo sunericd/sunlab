@@ -19,7 +19,7 @@ Please reach out to us through email. We are physically located at the Ragon Ins
   include button.html
   type="address"
   tooltip="Our location on Google Maps"
-  link="[https://www.google.com/maps](https://maps.app.goo.gl/cF3CeM6N6Sh2BS2o8)"
+  link="https://maps.app.goo.gl/cF3CeM6N6Sh2BS2o8"
 %}
 
 {% include section.html dark=true %}
