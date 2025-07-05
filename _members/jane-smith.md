@@ -3,18 +3,10 @@ name: Jane Smith
 image: images/photo.jpg
 role: principal-investigator
 affiliation: University of Colorado
-aliases:
-  - J. Smith
-  - J Smith
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  email: edsun@mit.edu
+  twitter: EricDSun
+  orcid: 0000-0001-8805-9864
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Eric obtained an A.B. in Chemistry and Physics and S.M. in Applied Mathematics from Harvard University in 2020. He completed his Ph.D. in Biomedical Informatics at Stanford University in 2025 under the joint supervision of Professors Anne Brunet and James Zou, where his research involved building computational methods for the analysis of spatial and single-cell omics and machine learning tools to track cellular aging in the brain. Eric joins MIT as an Assistant Professor of Biological Engineering in early 2026, where his lab develops computational and machine learning tools to decode the biology of aging across multiple scales.
