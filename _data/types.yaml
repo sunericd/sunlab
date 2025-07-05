@@ -3,35 +3,27 @@
 # team member roles
 
 principal-investigator:
-  icon: fa-solid fa-pi
   description: Principal Investigator
 
 postdoc:
-  icon: fa-solid fa-p
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-d
   description: PhD Student
 
 undergrad:
-  icon: fa-solid fa-u
   description: Undergraduate Student
 
 masters:
-  icon: fa-solid fa-m
   description: Masters Student
 
 technician:
-  icon: fa-solid fa-t
   description: Technician
 
 labmanager:
-  icon: fa-solid fa-l
   description: Lab Manager
 
 admin:
-  icon: fa-solid fa-a
   description: Administrative Assistant
 
 # general
