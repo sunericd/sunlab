@@ -9,7 +9,6 @@ links:
   orcid: 0000-0001-8805-9864
 ---
 ##### Assistant Professor of Biological Engineering, MIT
-
 ##### Member, Ragon Institute of MGB, MIT, and Harvard
 
 
