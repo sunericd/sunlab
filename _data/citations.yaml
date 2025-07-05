@@ -9,8 +9,9 @@
   date: '2025-06-24'
   link: https://doi.org/g9scrk
   orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://genomicpress.kglmeridian.com/view/journals/genpsych/aop/article-10.61373-gp025k.0065/images/full-gp025k0065f2.jpg
 - id: doi:10.1038/s41586-024-08334-8
   title: Spatial transcriptomic clocks reveal cell proximity effects in brain ageing
   authors:
@@ -28,8 +29,9 @@
   date: '2024-12-18'
   link: https://doi.org/g8wcst
   orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-024-08334-8/MediaObjects/41586_2024_8334_Fig1_HTML.png?as=webp
 - id: doi:10.1038/s41586-024-07972-2
   title: "CRISPR\u2013Cas9 screens reveal regulators of ageing in neural stem cells"
   authors:
@@ -51,8 +53,9 @@
   date: '2024-10-02'
   link: https://doi.org/g7w3pz
   orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-024-07972-2/MediaObjects/41586_2024_7972_Fig2_HTML.png?as=webp
 - id: doi:10.1101/2024.07.16.603809
   title: Spatiotemporal transcriptomic profiling and modeling of mouse brain at single-cell
     resolution reveals cell proximity effects of aging and rejuvenation
@@ -86,6 +89,7 @@
   orcid: 0000-0001-8805-9864
   plugin: sources.py
   file: sources.yaml
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae253/1/m_btae253f1.jpeg?Expires=1754371165&Signature=yJCF9u~VTJlYKilfPDmJGouLSVdlf9AKUlKuws6t~eHCQ71PJt71EZ6Bh3oimdIWWKEzYeOtoG4U2nxYZ8TMoC8K2odCNjVLExwRT9hs0434UYbgXSlqj~xl7dOU8EBUdPHkkvWWZPj96WetcRXKpykVGuCOIhCnU75~TZmjO2L42zB4ego6GpFbYcit8yhigY17FdjhJgckwGdsmUKt7S9UxL3ecl3vcUSI7DAk0t3J0h6P9kGODjR1qLbKIzM4TBNmkRKFCJ0Ywf7og9~S1B7oRxyi3BpYK8jZj4qGmjMDmd~4MT8aZM6p~unNYpggeN50Cw3r8qasFs~POqpiiw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1038/s43587-024-00594-3
   title: Restoration of neuronal progenitors by partial reprogramming in the aged
     neurogenic niche
@@ -101,8 +105,9 @@
   date: '2024-03-29'
   link: https://doi.org/gtpt7p
   orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43587-024-00594-3/MediaObjects/43587_2024_594_Fig3_HTML.png?as=webp
 - id: doi:10.1073/pnas.2313719121
   title: Principled and interpretable alignability testing and integration of single-cell
     data
@@ -115,8 +120,9 @@
   date: '2024-02-28'
   link: https://doi.org/g9scrq
   orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.pnas.org/cms/10.1073/pnas.2313719121/asset/1b433787-1c3d-41ee-a205-5a80ec704726/assets/images/large/pnas.2313719121fig01.jpg
 - id: doi:10.1038/s41592-024-02184-y
   title: 'TISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics
     improves downstream analyses'
@@ -130,8 +136,9 @@
   date: '2024-02-12'
   link: https://doi.org/g9scrr
   orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41592-024-02184-y/MediaObjects/41592_2024_2184_Fig1_HTML.png?as=webp
 - id: doi:10.1101/2024.01.31.578269
   title: 'SPRITE: improving spatial gene expression imputation with gene and cell
     networks'
@@ -165,8 +172,9 @@
   date: '2023-07-13'
   link: https://doi.org/g9scrt
   orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43587-023-00449-3/MediaObjects/43587_2023_449_Fig1_HTML.png?as=webp
 - id: doi:10.1038/s41467-023-36492-2
   title: A spectral method for assessing and combining multiple data visualizations
   authors:
@@ -189,8 +197,9 @@
   date: '2022-12-30'
   link: https://doi.org/grmf2m
   orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs43588-022-00380-4/MediaObjects/43588_2022_380_Fig1_HTML.png?
 - id: doi:10.1038/s43587-022-00335-4
   title: Cell-type-specific aging clocks to quantify aging and rejuvenation in neurogenic
     regions of the brain
@@ -211,8 +220,9 @@
   date: '2022-12-19'
   link: https://doi.org/gtf8kx
   orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43587-022-00335-4/MediaObjects/43587_2022_335_Fig1_HTML.png?as=webp
 - id: doi:10.1038/s41567-021-01335-8
   title: The cusp of an apple
   authors:
@@ -227,6 +237,7 @@
   orcid: 0000-0001-8805-9864
   plugin: sources.py
   file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41567-021-01335-8/MediaObjects/41567_2021_1335_Fig1_HTML.png?as=webp
 - id: doi:10.1167/jov.21.11.15
   title: ImageNet-trained deep neural networks exhibit illusion-like response to the
     Scintillating grid
@@ -237,8 +248,9 @@
   date: '2021-10-22'
   link: https://doi.org/g9scrv
   orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://arvo.silverchair-cdn.com/arvo/content_public/journal/jov/938563/m_i1534-7362-21-11-15-f1_1634893875.69097.png?Expires=1753798090&Signature=DEhDz1OwPyYQyM1NbbfEQs-FdXoPe1BDDDuvGtz2omCrm0e6YKY-7hxKxky9bsuY~dB1Z7fOGlEDhW-FxpA2D7m-FEQvl0lIE~d6j~FHkZ57J74NUShwsH8teRoGY-Cbho3tQ7JJBLVwVKWW~y0t9jpS6i7PNsFIrccGagpr8-CeGk1aht61MJwSNV7avOpND0FbrXrLWN9CCGHM4061njRGvI8MMeTPKSINLlzlg2Cy4Cpg74xGAb5qSSurzwbUvBs~ruq5Swgh3sDw0U-TlouUZsiT8G5IrMnAXdm0-4gl9RAmxA8dlwFOyuK0D0u1rer6CDbpC-dkRJAvjMyQIg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.18632/aging.203660
   title: Predicting physiological aging rates from a range of quantitative traits
     using machine learning
@@ -264,8 +276,9 @@
   date: '2021-10-29'
   link: https://doi.org/gsgdf5
   orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.aging-us.com/issue/v13i20/cover/medium
 - id: doi:10.1073/pnas.2006375117
   title: Optimal control of aging in complex networks
   authors:
@@ -276,8 +289,9 @@
   date: '2020-08-12'
   link: https://doi.org/gg86xc
   orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.pnas.org/cms/10.1073/pnas.2006375117/asset/aa64ff89-7183-41da-a592-a1ade259727d/assets/images/large/pnas.2006375117fig01.jpg
 - id: doi:10.1016/j.cub.2020.05.052
   title: Sex Chromosome Degeneration by Regulatory Evolution
   authors:
@@ -291,61 +305,4 @@
   orcid: 0000-0001-8805-9864
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982220307399-gr1.jpg
