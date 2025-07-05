@@ -56,26 +56,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4708/11525198/67e29401713d/41586_2024_7972_Fig2_HTML.jpg
-- id: doi:10.1101/2024.07.16.603809
-  title: Spatiotemporal transcriptomic profiling and modeling of mouse brain at single-cell
-    resolution reveals cell proximity effects of aging and rejuvenation
-  authors:
-  - Eric D. Sun
-  - Olivia Y. Zhou
-  - Max Hauptschein
-  - Nimrod Rappoport
-  - Lucy Xu
-  - Paloma Navarro Negredo
-  - Ling Liu
-  - Thomas A. Rando
-  - James Zou
-  - Anne Brunet
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-07-19'
-  link: https://doi.org/g9scrm
-  orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btae253
   title: 'SPRITE: improving spatial gene expression imputation with gene and cell
     networks'
@@ -139,19 +119,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8452/10486837/3a67ac37d059/nihpp-2023.04.25.538326v2-f0001.jpg
-- id: doi:10.1101/2024.01.31.578269
-  title: 'SPRITE: improving spatial gene expression imputation with gene and cell
-    networks'
-  authors:
-  - Eric D. Sun
-  - Rong Ma
-  - James Zou
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-02-02'
-  link: https://doi.org/g9scrs
-  orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/s43587-023-00449-3
   title: Chromatin accessibility dynamics of neurogenic niche cells reveal defects
     in neural stem cell adhesion and migration during aging
