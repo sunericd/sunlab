@@ -63,7 +63,6 @@ We are not actively recruiting at this position currently, but please reach out 
 {%
   include figure.html
   image="images/ragon.jpg"
-  caption="Lorem ipsum"
 %}
 
 {% endcapture %}
@@ -73,7 +72,6 @@ We are not actively recruiting at this position currently, but please reach out 
 {%
   include figure.html
   image="images/ragon_outdoor_joinus.jpg"
-  caption="Lorem ipsum"
 %}
 
 {% endcapture %}
