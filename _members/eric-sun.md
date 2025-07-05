@@ -2,7 +2,7 @@
 name: Eric Sun
 image: images/ericdsun.png
 role: principal-investigator
-affiliation: MIT Biological Engineering
+affiliation: MIT, Ragon Institute
 links:
   email: edsun@mit.edu
   twitter: EricDSun
