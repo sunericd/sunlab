@@ -11,7 +11,7 @@
   orcid: 0000-0001-8805-9864
   plugin: sources.py
   file: sources.yaml
-  image: https://genomicpress.kglmeridian.com/coverimage?doc=/journals/genpsych/aop/issue.xml&width=200
+  image: https://gp.genomicpress.com/wp-content/uploads/2023/09/Cover-2b.jpg
 - id: doi:10.1038/s41586-024-08334-8
   title: Spatial transcriptomic clocks reveal cell proximity effects in brain ageing
   authors:
