@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-If you're interested in our research, feel free to reach out to us through email. We are physically located at the Ragon Institute in Kendall Square in Cambridge, MA, USA.
+If you're interested in our research, feel free to reach out to us through email. We are physically located at the Ragon Institute on the MIT campus.
 
 {%
   include button.html
