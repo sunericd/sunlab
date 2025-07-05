@@ -90,3 +90,10 @@
 
 - id: doi:10.1016/j.cub.2020.05.052
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982220307399-gr1.jpg
+
+
+- id: doi:10.1101/2024.07.16.603809
+  remove: true
+
+- id: doi:10.1101/2024.01.31.578269
+  remove: true
