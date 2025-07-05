@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # sunericd's Website
+  # Sun Lab Website
 
   Visit **[sunericd.github.io/sunlab](https://sunericd.github.io/sunlab)** 🚀
 
