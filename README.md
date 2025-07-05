@@ -5,6 +5,6 @@
 
   # sunericd's Website
 
-  Visit **[sunericd.github.io/sunlab.github.io](https://sunericd.github.io/sunlab.github.io)** 🚀
+  Visit **[sunericd.github.io/sunlab](https://sunericd.github.io/sunlab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
