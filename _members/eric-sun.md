@@ -1,8 +1,8 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Eric Sun
+image: images/ericdsun.png
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: MIT Biological Engineering
 links:
   email: edsun@mit.edu
   twitter: EricDSun
