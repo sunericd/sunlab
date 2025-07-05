@@ -8,7 +8,7 @@ links:
   twitter: EricDSun
   orcid: 0000-0001-8805-9864
 ---
-##### Assistant Professor, Department of Biological Engineering, MIT
+##### Assistant Professor of Biological Engineering, MIT
 
 ##### Member, Ragon Institute of MGB, MIT, and Harvard
 
