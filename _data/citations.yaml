@@ -31,7 +31,7 @@
   orcid: 0000-0001-8805-9864
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-024-08334-8/MediaObjects/41586_2024_8334_Fig1_HTML.png?as=webp
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-024-08334-8/MediaObjects/41586_2024_8334_Fig1_HTML.png
 - id: doi:10.1038/s41586-024-07972-2
   title: "CRISPR\u2013Cas9 screens reveal regulators of ageing in neural stem cells"
   authors:
@@ -55,7 +55,7 @@
   orcid: 0000-0001-8805-9864
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-024-07972-2/MediaObjects/41586_2024_7972_Fig2_HTML.png?as=webp
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-024-07972-2/MediaObjects/41586_2024_7972_Fig2_HTML.png
 - id: doi:10.1101/2024.07.16.603809
   title: Spatiotemporal transcriptomic profiling and modeling of mouse brain at single-cell
     resolution reveals cell proximity effects of aging and rejuvenation
@@ -89,7 +89,7 @@
   orcid: 0000-0001-8805-9864
   plugin: sources.py
   file: sources.yaml
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae253/1/m_btae253f1.jpeg?Expires=1754371165&Signature=yJCF9u~VTJlYKilfPDmJGouLSVdlf9AKUlKuws6t~eHCQ71PJt71EZ6Bh3oimdIWWKEzYeOtoG4U2nxYZ8TMoC8K2odCNjVLExwRT9hs0434UYbgXSlqj~xl7dOU8EBUdPHkkvWWZPj96WetcRXKpykVGuCOIhCnU75~TZmjO2L42zB4ego6GpFbYcit8yhigY17FdjhJgckwGdsmUKt7S9UxL3ecl3vcUSI7DAk0t3J0h6P9kGODjR1qLbKIzM4TBNmkRKFCJ0Ywf7og9~S1B7oRxyi3BpYK8jZj4qGmjMDmd~4MT8aZM6p~unNYpggeN50Cw3r8qasFs~POqpiiw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/40/Supplement_1/10.1093_bioinformatics_btae253/1/m_btae253f1.jpeg
 - id: doi:10.1038/s43587-024-00594-3
   title: Restoration of neuronal progenitors by partial reprogramming in the aged
     neurogenic niche
@@ -107,7 +107,7 @@
   orcid: 0000-0001-8805-9864
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43587-024-00594-3/MediaObjects/43587_2024_594_Fig3_HTML.png?as=webp
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43587-024-00594-3/MediaObjects/43587_2024_594_Fig3_HTML.png
 - id: doi:10.1073/pnas.2313719121
   title: Principled and interpretable alignability testing and integration of single-cell
     data
@@ -138,7 +138,7 @@
   orcid: 0000-0001-8805-9864
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41592-024-02184-y/MediaObjects/41592_2024_2184_Fig1_HTML.png?as=webp
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41592-024-02184-y/MediaObjects/41592_2024_2184_Fig1_HTML.png
 - id: doi:10.1101/2024.01.31.578269
   title: 'SPRITE: improving spatial gene expression imputation with gene and cell
     networks'
@@ -174,7 +174,7 @@
   orcid: 0000-0001-8805-9864
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43587-023-00449-3/MediaObjects/43587_2023_449_Fig1_HTML.png?as=webp
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43587-023-00449-3/MediaObjects/43587_2023_449_Fig1_HTML.png
 - id: doi:10.1038/s41467-023-36492-2
   title: A spectral method for assessing and combining multiple data visualizations
   authors:
@@ -222,7 +222,7 @@
   orcid: 0000-0001-8805-9864
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43587-022-00335-4/MediaObjects/43587_2022_335_Fig1_HTML.png?as=webp
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43587-022-00335-4/MediaObjects/43587_2022_335_Fig1_HTML.png
 - id: doi:10.1038/s41567-021-01335-8
   title: The cusp of an apple
   authors:
@@ -237,7 +237,7 @@
   orcid: 0000-0001-8805-9864
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41567-021-01335-8/MediaObjects/41567_2021_1335_Fig1_HTML.png?as=webp
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41567-021-01335-8/MediaObjects/41567_2021_1335_Fig1_HTML.png
 - id: doi:10.1167/jov.21.11.15
   title: ImageNet-trained deep neural networks exhibit illusion-like response to the
     Scintillating grid
