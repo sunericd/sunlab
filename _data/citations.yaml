@@ -23,8 +23,8 @@
   - Paloma Navarro Negredo
   - Ling Liu
   - Thomas A. Rando
-  - James Zou#
-  - Anne Brunet#
+  - James Zou<sup>+</sup>
+  - Anne Brunet<sup>+</sup>
   publisher: Nature
   date: '2024-12-18'
   link: https://doi.org/g8wcst
@@ -35,9 +35,9 @@
 - id: doi:10.1016/j.neuron.2024.12.007
   title: Brain aging and rejuvenation at single-cell resolution
   authors:
-  - Eric D. Sun*
-  - Rahul Nagvekar*
-  - Angela N. Pogson*
+  - Eric D. Sun<sup>*</sup>
+  - Rahul Nagvekar<sup>*</sup>
+  - Angela N. Pogson<sup>*</sup>
   - Anne Brunet
   publisher: Neuron
   date: '2025-01-01'
@@ -74,9 +74,9 @@
   title: 'SPRITE: improving spatial gene expression imputation with gene and cell
     networks'
   authors:
-  - Eric D. Sun#
+  - Eric D. Sun<sup>+</sup>
   - Rong Ma
-  - James Zou#
+  - James Zou<sup>+</sup>
   publisher: Bioinformatics
   date: '2024-06-28'
   link: https://doi.org/g9scrp
@@ -137,8 +137,8 @@
   title: Chromatin accessibility dynamics of neurogenic niche cells reveal defects
     in neural stem cell adhesion and migration during aging
   authors:
-  - Robin W. Yeo*
-  - Olivia Y. Zhou*
+  - Robin W. Yeo<sup>*</sup>
+  - Olivia Y. Zhou<sup>*</sup>
   - Brian L. Zhong
   - Eric D. Sun
   - Paloma Navarro Negredo
@@ -186,8 +186,8 @@
   title: Cell-type-specific aging clocks to quantify aging and rejuvenation in neurogenic
     regions of the brain
   authors:
-  - Matthew T. Buckley*
-  - Eric D. Sun*
+  - Matthew T. Buckley<sup>*</sup>
+  - Eric D. Sun<sup>*</sup>
   - Benson M. George
   - Ling Liu
   - Nicholas Schaum
@@ -208,8 +208,8 @@
 - id: doi:10.1038/s41567-021-01335-8
   title: The cusp of an apple
   authors:
-  - Aditi Chakrabarti*
-  - Thomas C. T. Michaels*
+  - Aditi Chakrabarti<sup>*</sup>
+  - Thomas C. T. Michaels<sup>*</sup>
   - Sifan Yin
   - Eric D. Sun
   - L. Mahadevan
@@ -224,8 +224,8 @@
   title: ImageNet-trained deep neural networks exhibit illusion-like response to the
     Scintillating grid
   authors:
-  - Eric D. Sun#
-  - Ron Dekel#
+  - Eric D. Sun<sup>+</sup>
+  - Ron Dekel<sup>+</sup>
   publisher: Journal of Vision
   date: '2021-10-22'
   link: https://doi.org/g9scrv
@@ -264,8 +264,8 @@
 - id: doi:10.1073/pnas.2006375117
   title: Optimal control of aging in complex networks
   authors:
-  - Eric D. Sun*
-  - Thomas C. T. Michaels*
+  - Eric D. Sun<sup>*</sup>
+  - Thomas C. T. Michaels<sup>*</sup>
   - L. Mahadevan
   publisher: Proceedings of the National Academy of Sciences
   date: '2020-08-12'
