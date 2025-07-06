@@ -181,7 +181,7 @@
   orcid: 0000-0001-8805-9864
   plugin: sources.py
   file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2022/05/29/2022.05.27.493785/F1.medium.gif
+  image: dynamicviz.png
 - id: doi:10.1038/s43587-022-00335-4
   title: Cell-type-specific aging clocks to quantify aging and rejuvenation in neurogenic
     regions of the brain
