@@ -1,5 +1,5 @@
 ---
-title: Sun Lab at MIT
+title: We are recruiting!
 image: images/icon.png
 author: eric-sun
 tags: announcement
