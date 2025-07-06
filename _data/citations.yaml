@@ -32,6 +32,19 @@
   plugin: sources.py
   file: sources.yaml
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3fa2/11798877/285ebb111a00/41586_2024_8334_Fig4_HTML.jpg
+- id: doi:10.1016/j.neuron.2024.12.007
+  title: Brain aging and rejuvenation at single-cell resolution
+  authors:
+  - Eric D. Sun
+  - Rahul Nagvekar
+  - Angela N. Pogson
+  - Anne Brunet
+  publisher: Neuron
+  date: '2025-01-01'
+  link: https://doi.org/g82tvx
+  orcid: 0000-0001-8805-9864
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41586-024-07972-2
   title: "CRISPR\u2013Cas9 screens reveal regulators of ageing in neural stem cells"
   authors:
