@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-book" %}Publications
 
-The publications from our lab are listed below in reverse chronological order. Please reach out if you would like an electronic copy of any publication.
+The publications from our lab are listed below in reverse chronological order. Please reach out if you would like a copy of any publication.
 
 \* Co-first authors
 
