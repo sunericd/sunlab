@@ -9,7 +9,7 @@
 #    - software
 
 - title: Spatial Aging Clocks
-  subtitle: a subtitle
+  subtitle: Spatial aging clocks for cell types in the mouse brain
   group: featured
   image: images/spatialagingclocks.jpg
   link: https://github.com/sunericd/SpatialAgingClock
@@ -22,7 +22,7 @@
   group: featured
   image: images/spatialagingdatasets.png
   link: https://doi.org/10.5281/zenodo.13883176
-  description: This Python software package provides tools for deploying our spatial aging clocks (trained on mouse brain data) to a single-cell datasets (both spatial or non-spatial).
+  description: This Zenodo repository contains AnnData objects containing the processed MERFISH spatial transcriptomics datasets for mouse brain aging, experiments with exercise, and experiments with partial reprogramming.
   tags:
     - dataset
 
@@ -37,6 +37,7 @@
 
 - title: SPRITE
   subtitle: Cell and gene networks for spatial gene expression prediction
+  group: featured
   image: images/sprite.png
   link: https://github.com/sunericd/SPRITE
   description: SPRITE (Spatial Propagation and Reinforcement of Imputed Transcript Expression) is a meta-algorithm for post-processing spatial gene expression predictions to improve the quality of predictions and their utility in downstream analysis.
