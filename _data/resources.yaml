@@ -10,6 +10,7 @@
 
 - title: Spatial Aging Clocks
   subtitle: a subtitle
+  group: featured
   image: images/spatialagingclocks.jpg
   link: https://github.com/sunericd/SpatialAgingClock
   description: This Python software package provides tools for deploying our spatial aging clocks (trained on mouse brain data) to a single-cell datasets (both spatial or non-spatial).
@@ -17,7 +18,8 @@
     - software
 
 - title: Spatial Aging Datasets
-  subtitle: MERFISH Datasets for Mouse Brain Aging, Exercise & Reprogramming 
+  subtitle: MERFISH Datasets for Mouse Brain Aging, Exercise & Reprogramming
+  group: featured
   image: images/spatialagingdatasets.png
   link: https://doi.org/10.5281/zenodo.13883176
   description: This Python software package provides tools for deploying our spatial aging clocks (trained on mouse brain data) to a single-cell datasets (both spatial or non-spatial).
@@ -43,6 +45,7 @@
 
 - title: DynamicViz
   subtitle: Dynamic visualization of high-dimensional data
+  group: featured
   image: images/dynamicviz.png
   link: https://github.com/sunericd/dynamicviz
   description: DynamicViz package for generating bootstrap visualizations of high-dimensional data. Great for assessing stability of visualizations and increasing robustness of interpretations.
