@@ -12,9 +12,7 @@ The publications from our lab are listed below in reverse chronological order. P
 \* Co-first authors
 
 \+ Co-corresponding authors
-
 {% include section.html %}
-
 ## Highlighted
 
 {% include citation.html lookup="Spatial transcriptomic clocks reveal cell proximity effects in brain ageing" style="rich" %}
@@ -22,7 +20,6 @@ The publications from our lab are listed below in reverse chronological order. P
 {% include citation.html lookup="Dynamic visualization of high-dimensional data" style="rich" %}
 {% include citation.html lookup="Cell-type-specific aging clocks to quantify aging and rejuvenation in neurogenic regions of the brain" style="rich" %}
 {% include citation.html lookup="Optimal control of aging in complex networks" style="rich" %}
-
 
 {% include section.html %}
 
