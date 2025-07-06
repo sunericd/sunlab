@@ -5,4 +5,4 @@ author: eric-sun
 tags: announcement
 ---
 
-The Sun Lab at MIT will open officially in January 2026 and will be located in the Ragon Institute!
+The Sun Lab will be recruiting at levels starting now. We will be hosting graduate student rotations in Fall 2025 and onwards.
