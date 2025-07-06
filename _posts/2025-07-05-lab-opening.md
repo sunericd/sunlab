@@ -1,5 +1,5 @@
 ---
-title: Sun Lab at MIT
+title: The Sun Lab opens!
 image: images/icon.png
 author: eric-sun
 tags: announcement
