@@ -46,6 +46,9 @@
 - id: doi:10.61373/gp025k.0065
   image: https://gp.genomicpress.com/wp-content/uploads/2023/09/Cover-2b.jpg
 
+- id: doi:10.1016/j.neuron.2024.12.007
+  image: https://www.cell.com/cms/10.1016/j.neuron.2024.12.007/asset/6d5728a0-64a8-4fe3-91ce-8170b82b08b3/main.assets/gr2.jpg
+
 - id: doi:10.1038/s41586-024-08334-8
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3fa2/11798877/285ebb111a00/41586_2024_8334_Fig4_HTML.jpg
 
