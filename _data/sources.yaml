@@ -22,34 +22,29 @@
 #- id: doi:10.7554/eLife.32822
 #  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
 
-- id: doi:10.1038/s41567-021-01335-8
-  authors:
-  - Aditi Chakrabarti
-  - Thomas C. T. Michaels
-  - Sifan Yin
-  - Eric D. Sun
-  - L. Mahadevan
-
-- id: doi:10.1093/bioinformatics/btae253
-  authors:
-  - Eric D. Sun
-  - Rong Ma
-  - James Zou
-
-- id: doi:10.1016/j.cub.2020.05.052
-  authors:
-  - Thomas Lenormand
-  - Frederic Fyon
-  - Eric D. Sun
-  - Denis Roze
-
 - id: doi:10.61373/gp025k.0065
   image: https://gp.genomicpress.com/wp-content/uploads/2023/09/Cover-2b.jpg
 
 - id: doi:10.1016/j.neuron.2024.12.007
+  authors:
+    - Eric D. Sun*
+    - Rahul Nagvekar*
+    - Angela N. Pogson*
+    - Anne Brunet
   image: https://www.cell.com/cms/10.1016/j.neuron.2024.12.007/asset/6d5728a0-64a8-4fe3-91ce-8170b82b08b3/main.assets/gr2.jpg
 
 - id: doi:10.1038/s41586-024-08334-8
+  authors:
+    - Eric D. Sun
+    - Olivia Y. Zhou
+    - Max Hauptschein
+    - Nimrod Rappoport
+    - Lucy Xu
+    - Paloma Navarro Negredo
+    - Ling Liu
+    - Thomas A. Rando
+    - James Zou#
+    - Anne Brunet#
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3fa2/11798877/285ebb111a00/41586_2024_8334_Fig4_HTML.jpg
 
 - id: doi:10.1038/s41586-024-07972-2
@@ -65,9 +60,26 @@
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8452/10486837/3a67ac37d059/nihpp-2023.04.25.538326v2-f0001.jpg
 
 - id: doi:10.1093/bioinformatics/btae253
+  authors:
+    - Eric D. Sun#
+    - Rong Ma
+    - James Zou#
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d385/11211834/dc6c8e7a6c1c/btae253f4.jpg
   
 - id: doi:10.1038/s43587-023-00449-3
+  authors:
+    - Robin W. Yeo*
+    - Olivia Y. Zhou*
+    - Brian L. Zhong
+    - Eric D. Sun
+    - Paloma Navarro Negredo
+    - Surag Nair
+    - Mahfuza Sharmin
+    - Tyson J. Ruetz
+    - Mikaela Wilson
+    - Anshul Kundaje
+    - Alexander R. Dunn
+    - Anne Brunet
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4c3b/10353944/7a929bdbe302/43587_2023_449_Fig2_HTML.jpg
 
 - id: doi:10.1038/s41467-023-36492-2
@@ -77,22 +89,56 @@
   image: dynamicviz.png
 
 - id: doi:10.1038/s43587-022-00335-4
+  authors:
+    - Matthew T. Buckley*
+    - Eric D. Sun*
+    - Benson M. George
+    - Ling Liu
+    - Nicholas Schaum
+    - Lucy Xu
+    - Jaime M. Reyes
+    - Margaret A. Goodell
+    - Irving L. Weissman
+    - Tony Wyss-Coray
+    - Thomas A. Rando
+    - Anne Brunet
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cb7a/10154228/2cf3cd205499/43587_2022_335_Fig1_HTML.jpg
 
 - id: doi:10.1038/s41567-021-01335-8
+  authors:
+    - Aditi Chakrabarti*
+    - Thomas C. T. Michaels*
+    - Sifan Yin
+    - Eric D. Sun
+    - L. Mahadevan
   image: https://physicsworld.com/wp-content/uploads/2021/10/MicrosoftTeams-image-1.png
 
 - id: doi:10.1167/jov.21.11.15
+  authors:
+    - Eric D. Sun#
+    - Ron Dekel#
   image: https://arvo.silverchair-cdn.com/arvo/content_public/journal/jov/938563/m_i1534-7362-21-11-15-f1_1634893875.69097.png?Expires=1753798090&Signature=DEhDz1OwPyYQyM1NbbfEQs-FdXoPe1BDDDuvGtz2omCrm0e6YKY-7hxKxky9bsuY~dB1Z7fOGlEDhW-FxpA2D7m-FEQvl0lIE~d6j~FHkZ57J74NUShwsH8teRoGY-Cbho3tQ7JJBLVwVKWW~y0t9jpS6i7PNsFIrccGagpr8-CeGk1aht61MJwSNV7avOpND0FbrXrLWN9CCGHM4061njRGvI8MMeTPKSINLlzlg2Cy4Cpg74xGAb5qSSurzwbUvBs~ruq5Swgh3sDw0U-TlouUZsiT8G5IrMnAXdm0-4gl9RAmxA8dlwFOyuK0D0u1rer6CDbpC-dkRJAvjMyQIg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
 - id: doi:10.18632/aging.203660
   image: https://www.aging-us.com/issue/v13i20/cover/medium
 
 - id: doi:10.1073/pnas.2006375117
+  authors:
+    - Eric D. Sun*
+    - Thomas C. T. Michaels*
+    - L. Mahadevan
   image: https://www.pnas.org/cms/10.1073/pnas.2006375117/asset/aa64ff89-7183-41da-a592-a1ade259727d/assets/images/large/pnas.2006375117fig01.jpg
 
 - id: doi:10.1016/j.cub.2020.05.052
+  authors:
+    - Thomas Lenormand
+    - Frederic Fyon
+    - Eric D. Sun
+    - Denis Roze
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982220307399-gr1.jpg
+
+
+
 
 
 - id: doi:10.1101/2024.07.16.603809
