@@ -27,9 +27,9 @@
 
 - id: doi:10.1016/j.neuron.2024.12.007
   authors:
-    - Eric D. Sun*
-    - Rahul Nagvekar*
-    - Angela N. Pogson*
+    - Eric D. Sun<sup>*</sup>
+    - Rahul Nagvekar<sup>*</sup>
+    - Angela N. Pogson<sup>*</sup>
     - Anne Brunet
   image: https://www.cell.com/cms/10.1016/j.neuron.2024.12.007/asset/6d5728a0-64a8-4fe3-91ce-8170b82b08b3/main.assets/gr2.jpg
 
@@ -43,8 +43,8 @@
     - Paloma Navarro Negredo
     - Ling Liu
     - Thomas A. Rando
-    - James Zou#
-    - Anne Brunet#
+    - James Zou<sup>+</sup>
+    - Anne Brunet<sup>+</sup>
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3fa2/11798877/285ebb111a00/41586_2024_8334_Fig4_HTML.jpg
 
 - id: doi:10.1038/s41586-024-07972-2
@@ -61,15 +61,15 @@
 
 - id: doi:10.1093/bioinformatics/btae253
   authors:
-    - Eric D. Sun#
+    - Eric D. Sun<sup>+</sup>
     - Rong Ma
-    - James Zou#
+    - James Zou<sup>+</sup>
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d385/11211834/dc6c8e7a6c1c/btae253f4.jpg
   
 - id: doi:10.1038/s43587-023-00449-3
   authors:
-    - Robin W. Yeo*
-    - Olivia Y. Zhou*
+    - Robin W. Yeo<sup>*</sup>
+    - Olivia Y. Zhou<sup>*</sup>
     - Brian L. Zhong
     - Eric D. Sun
     - Paloma Navarro Negredo
@@ -90,8 +90,8 @@
 
 - id: doi:10.1038/s43587-022-00335-4
   authors:
-    - Matthew T. Buckley*
-    - Eric D. Sun*
+    - Matthew T. Buckley<sup>*</sup>
+    - Eric D. Sun<sup>*</sup>
     - Benson M. George
     - Ling Liu
     - Nicholas Schaum
@@ -106,8 +106,8 @@
 
 - id: doi:10.1038/s41567-021-01335-8
   authors:
-    - Aditi Chakrabarti*
-    - Thomas C. T. Michaels*
+    - Aditi Chakrabarti<sup>*</sup>
+    - Thomas C. T. Michaels<sup>*</sup>
     - Sifan Yin
     - Eric D. Sun
     - L. Mahadevan
@@ -115,8 +115,8 @@
 
 - id: doi:10.1167/jov.21.11.15
   authors:
-    - Eric D. Sun#
-    - Ron Dekel#
+    - Eric D. Sun<sup>+</sup>
+    - Ron Dekel<sup>+</sup>
   image: https://arvo.silverchair-cdn.com/arvo/content_public/journal/jov/938563/m_i1534-7362-21-11-15-f1_1634893875.69097.png?Expires=1753798090&Signature=DEhDz1OwPyYQyM1NbbfEQs-FdXoPe1BDDDuvGtz2omCrm0e6YKY-7hxKxky9bsuY~dB1Z7fOGlEDhW-FxpA2D7m-FEQvl0lIE~d6j~FHkZ57J74NUShwsH8teRoGY-Cbho3tQ7JJBLVwVKWW~y0t9jpS6i7PNsFIrccGagpr8-CeGk1aht61MJwSNV7avOpND0FbrXrLWN9CCGHM4061njRGvI8MMeTPKSINLlzlg2Cy4Cpg74xGAb5qSSurzwbUvBs~ruq5Swgh3sDw0U-TlouUZsiT8G5IrMnAXdm0-4gl9RAmxA8dlwFOyuK0D0u1rer6CDbpC-dkRJAvjMyQIg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
 - id: doi:10.18632/aging.203660
@@ -124,8 +124,8 @@
 
 - id: doi:10.1073/pnas.2006375117
   authors:
-    - Eric D. Sun*
-    - Thomas C. T. Michaels*
+    - Eric D. Sun<sup>*</sup>
+    - Thomas C. T. Michaels<sup>*</sup>
     - L. Mahadevan
   image: https://www.pnas.org/cms/10.1073/pnas.2006375117/asset/aa64ff89-7183-41da-a592-a1ade259727d/assets/images/large/pnas.2006375117fig01.jpg
 
