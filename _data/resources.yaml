@@ -1,47 +1,50 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+#- title: Cool Dataset
+#  subtitle: a subtitle
+#  group: featured
+#  image: images/photo.jpg
+#  link: https://github.com/
+#  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  repo: greenelab/lab-website-template
+#  tags:
+#    - software
 
-- title: Cool Package
+- title: Spatial Aging Clocks
   subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/spatialagingclocks.jpg
+  link: https://github.com/sunericd/SpatialAgingClock
+  description: This Python software package provides tools for deploying our spatial aging clocks (trained on mouse brain data) to a single-cell datasets (both spatial or non-spatial).
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Spatial Aging Datasets
+  subtitle: MERFISH Datasets for Mouse Brain Aging, Exercise & Reprogramming 
+  image: images/spatialagingdatasets.png
+  link: https://doi.org/10.5281/zenodo.13883176
+  description: This Python software package provides tools for deploying our spatial aging clocks (trained on mouse brain data) to a single-cell datasets (both spatial or non-spatial).
+  tags:
+    - dataset
+
+- title: TISSUE
+  subtitle: Uncertainty-aware spatial gene expression prediction
+  group: featured
+  image: images/tissue.png
+  link: https://github.com/sunericd/TISSUE
+  description: TISSUE (Transcript Imputation with Spatial Single-cell Uncertainty Estimation) provides tools for estimating well-calibrated uncertainty measures for gene expression predictions in single-cell spatial transcriptomics datasets and utilizing them in downstream analyses.
+  tags:
+    - software
+
+- title: SPRITE
+  subtitle: Cell and gene networks for spatial gene expression prediction
+  image: images/sprite.png
+  link: https://github.com/sunericd/SPRITE
+  description: SPRITE (Spatial Propagation and Reinforcement of Imputed Transcript Expression) is a meta-algorithm for post-processing spatial gene expression predictions to improve the quality of predictions and their utility in downstream analysis.
+  tags:
+    - software
+
+- title: DynamicViz
+  subtitle: Dynamic visualization of high-dimensional data
+  image: images/dynamicviz.png
+  link: https://github.com/sunericd/dynamicviz
+  description: DynamicViz package for generating bootstrap visualizations of high-dimensional data. Great for assessing stability of visualizations and increasing robustness of interpretations.
   tags:
     - software
