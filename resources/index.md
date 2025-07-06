@@ -23,4 +23,4 @@ We release open-source software, models, and datasets associated with our resear
 
 ## More
 
-{% include list.html component="card" data="resources" filter="!group" style="small" %}
+{% include list.html component="card" data="resources" filter="!group"%}
