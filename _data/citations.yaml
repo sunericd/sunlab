@@ -15,7 +15,7 @@
 - id: doi:10.1038/s41586-024-08334-8
   title: Spatial transcriptomic clocks reveal cell proximity effects in brain ageing
   authors:
-  - <ins>Eric D. Sun<ins>
+  - <ins>Eric D. Sun</ins>
   - Olivia Y. Zhou
   - Max Hauptschein
   - Nimrod Rappoport
@@ -35,7 +35,7 @@
 - id: doi:10.1016/j.neuron.2024.12.007
   title: Brain aging and rejuvenation at single-cell resolution
   authors:
-  - <ins>Eric D. Sun<ins><sup>*</sup>
+  - <ins>Eric D. Sun</ins><sup>*</sup>
   - Rahul Nagvekar<sup>*</sup>
   - Angela N. Pogson<sup>*</sup>
   - Anne Brunet
@@ -74,7 +74,7 @@
   title: 'SPRITE: improving spatial gene expression imputation with gene and cell
     networks'
   authors:
-  - <ins>Eric D. Sun<ins><sup>+</sup>
+  - <ins>Eric D. Sun</ins><sup>+</sup>
   - Rong Ma
   - James Zou<sup>+</sup>
   publisher: Bioinformatics
@@ -140,7 +140,7 @@
   - Robin W. Yeo<sup>*</sup>
   - Olivia Y. Zhou<sup>*</sup>
   - Brian L. Zhong
-  - <ins>Eric D. Sun<ins>
+  - <ins>Eric D. Sun</ins>
   - Paloma Navarro Negredo
   - Surag Nair
   - Mahfuza Sharmin
@@ -187,7 +187,7 @@
     regions of the brain
   authors:
   - Matthew T. Buckley<sup>*</sup>
-  - <ins>Eric D. Sun<ins><sup>*</sup>
+  - <ins>Eric D. Sun</ins><sup>*</sup>
   - Benson M. George
   - Ling Liu
   - Nicholas Schaum
@@ -211,7 +211,7 @@
   - Aditi Chakrabarti<sup>*</sup>
   - Thomas C. T. Michaels<sup>*</sup>
   - Sifan Yin
-  - <ins>Eric D. Sun<ins>
+  - <ins>Eric D. Sun</ins>
   - L. Mahadevan
   publisher: Nature Physics
   date: '2021-10-01'
@@ -224,7 +224,7 @@
   title: ImageNet-trained deep neural networks exhibit illusion-like response to the
     Scintillating grid
   authors:
-  - <ins>Eric D. Sun<ins><sup>+</sup>
+  - <ins>Eric D. Sun</ins><sup>+</sup>
   - Ron Dekel<sup>+</sup>
   publisher: Journal of Vision
   date: '2021-10-22'
@@ -264,7 +264,7 @@
 - id: doi:10.1073/pnas.2006375117
   title: Optimal control of aging in complex networks
   authors:
-  - <ins>Eric D. Sun<ins><sup>*</sup>
+  - <ins>Eric D. Sun</ins><sup>*</sup>
   - Thomas C. T. Michaels<sup>*</sup>
   - L. Mahadevan
   publisher: Proceedings of the National Academy of Sciences
@@ -279,7 +279,7 @@
   authors:
   - Thomas Lenormand
   - Frederic Fyon
-  - <ins>Eric D. Sun<ins>
+  - <ins>Eric D. Sun</ins>
   - Denis Roze
   publisher: Current Biology
   date: '2020-08-01'
