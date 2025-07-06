@@ -62,6 +62,8 @@
 
 .citation-publisher {
   text-transform: capitalize;
+  font-weight: bold;
+  font-style: italic;
 }
 
 .citation-description {
