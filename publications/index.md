@@ -7,6 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-book" %}Publications
 
+The publications from our lab are listed below in reverse chronological order.
+
+\* Co-first authors
++ Co-corresponding authors
+
 {% include section.html %}
 
 ## Highlighted
