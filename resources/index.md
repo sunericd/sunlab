@@ -7,10 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-toolbox" %}Resources
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We release open-source software, models, and datasets associated with our research publications
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="software, model, dataset" %}
 
 {% include search-info.html %}
 
