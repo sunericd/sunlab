@@ -1,6 +1,6 @@
 ---
 title: The Sun Lab opens!
-image: images/icon.png
+image: images/ragon_outdoor_joinus.png
 author: eric-sun
 tags: announcement
 ---
