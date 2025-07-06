@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-toolbox" %}Resources
 
-We release open-source software, models, and datasets associated with our research publications
+We release open-source software, models, and datasets associated with our research publications.
 
 {% include tags.html tags="software, model, dataset" %}
 
