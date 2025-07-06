@@ -9,9 +9,9 @@ nav:
 
 The publications from our lab are listed below in reverse chronological order. Please reach out if you would like a copy of any publication.
 
-    <sup>*</sup> Co-first authors
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>*</sup> Co-first authors
 
-    <sup>+</sup> Co-corresponding authors
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>+</sup> Co-corresponding authors
 {% include section.html %}
 ## Highlighted
 
