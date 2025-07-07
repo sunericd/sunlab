@@ -37,8 +37,9 @@ Aging is the greatest risk factor for a broad range of chronic diseases. We have
 {%
   include figure.html
   image="images/LabVennDiagram.png"
-  width=70%
+  width="70%"
 %}
+
 
 {% include section.html %}
 
