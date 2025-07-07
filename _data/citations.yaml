@@ -4,7 +4,7 @@
   title: 'Eric Sun: Understanding brain aging at spatial and single-cell resolution
     with machine learning'
   authors:
-  - Eric D. Sun
+  - <ins>Eric D. Sun</ins>
   publisher: Genomic Psychiatry
   date: '2025-06-24'
   link: https://doi.org/g9scrk
@@ -54,7 +54,7 @@
   - Chloe M. Kashiwagi
   - Stephanie D. Gagnon
   - Bhek Morton
-  - Eric D. Sun
+  - <ins>Eric D. Sun</ins>
   - Jeeyoon Na
   - Robin W. Yeo
   - Dena S. Leeman
@@ -91,7 +91,7 @@
   - Lucy Xu
   - Julliana Ramirez-Matias
   - Max Hauptschein
-  - Eric D. Sun
+  - <ins>Eric D. Sun</ins>
   - Judith C. Lunger
   - Matthew T. Buckley
   - Anne Brunet
@@ -107,7 +107,7 @@
     data
   authors:
   - Rong Ma
-  - Eric D. Sun
+  - <ins>Eric D. Sun</ins>
   - David Donoho
   - James Zou
   publisher: Proceedings of the National Academy of Sciences
@@ -121,7 +121,7 @@
   title: 'TISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics
     improves downstream analyses'
   authors:
-  - Eric D. Sun
+  - <ins>Eric D. Sun</ins>
   - Rong Ma
   - Paloma Navarro Negredo
   - Anne Brunet
@@ -160,7 +160,7 @@
   title: A spectral method for assessing and combining multiple data visualizations
   authors:
   - Rong Ma
-  - Eric D. Sun
+  - <ins>Eric D. Sun</ins>
   - James Zou
   publisher: Nature Communications
   date: '2023-02-11'
@@ -172,7 +172,7 @@
 - id: doi:10.1038/s43588-022-00380-4
   title: Dynamic visualization of high-dimensional data
   authors:
-  - Eric D. Sun
+  - <ins>Eric D. Sun</ins>
   - Rong Ma
   - James Zou
   publisher: Nature Computational Science
@@ -237,7 +237,7 @@
   title: Predicting physiological aging rates from a range of quantitative traits
     using machine learning
   authors:
-  - Eric D. Sun
+  - <ins>Eric D. Sun</ins>
   - Yong Qian
   - Richard Oppong
   - Thomas J. Butler
