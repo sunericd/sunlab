@@ -50,7 +50,7 @@ We are interested in the biological underpinnings of aging. We integrate theoret
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/agingtimeline.png"
   title="Modeling aging and rejuvenation"
   text=text
 %}
@@ -63,7 +63,7 @@ We seek to build new artificial intelligence and machine learning (AI/ML) models
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/cellandtissue.png"
   title="Machine learning for spatial & single-cell biology"
   flip=true
   style="bare"
@@ -78,7 +78,7 @@ Our interests extend beyond characterizing the biology within a cell to how mult
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/immuneinteraction.png"
   title="Understanding cell & immune interactions"
   text=text
 %}
