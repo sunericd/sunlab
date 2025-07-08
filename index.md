@@ -14,6 +14,12 @@ We develop new computational and machine learning models to study complex biolog
 {% include button.html type="link" icon="" text="Join or contact" link="contact" %}
 
 
+{%
+  include figure.html
+  image="images/LabVennDiagram.png"
+  width="70%"
+%}
+
 <!-- this is commented out {%
   include button.html
   link="team"
@@ -39,10 +45,4 @@ We develop new computational and machine learning models to study complex biolog
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
-%}
-
-{%
-  include figure.html
-  image="images/LabVennDiagram.png"
-  width="70%"
 %} -->
