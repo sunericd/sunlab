@@ -50,22 +50,7 @@ We are not actively recruiting at this position currently, but please reach out 
 
 {% include section.html %}
 
-{% capture col1 %}
-
 {%
   include figure.html
-  image="images/ragon.jpg"
+  image="images/contactus.png"
 %}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/ragon_outdoor_joinus.jpg"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
