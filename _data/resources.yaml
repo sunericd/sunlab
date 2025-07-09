@@ -13,9 +13,9 @@
   group: featured
   image: images/spatialagingclocks.jpg
   link: https://github.com/sunericd/SpatialAgingClock
-  description: This Python software package provides tools for deploying our spatial aging clocks (trained on mouse brain data) to a single-cell datasets (both spatial or non-spatial).
+  description: Tools for deploying our spatial aging clock models (trained on mouse brain data) to a single-cell datasets (both spatial or non-spatial).
   tags:
-    - software
+    - model
 
 - title: Spatial Aging Datasets
   subtitle: MERFISH Datasets for Mouse Brain Aging, Exercise & Reprogramming
