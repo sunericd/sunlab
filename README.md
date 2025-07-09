@@ -5,6 +5,6 @@
 
   # Sun Lab Website
 
-  Visit **[sunericd.github.io/sunlab](https://sunericd.github.io/sunlab)** 🚀
+  Visit **[sunlab.mit.edu](http://sunlab.mit.edu)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
