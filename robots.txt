@@ -1,1 +1,1 @@
-Sitemap: http://sunlab.mit.edu/sitemap.xml
+Sitemap: https://sunlab.mit.edu/sitemap.xml
