@@ -1,1 +1,1 @@
-Sitemap: https://sunericd.github.io/sunlab/sitemap.xml
+Sitemap: http://sunlab.mit.edu/sitemap.xml
