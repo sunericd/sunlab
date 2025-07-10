@@ -7,6 +7,7 @@ links:
   email: edsun@mit.edu
   twitter: EricDSun
   orcid: 0000-0001-8805-9864
+  google-scholar: 1BMbcSMAAAAJ
 ---
 ##### Assistant Professor of Biological Engineering, MIT
 ##### Member, Ragon Institute of MGB, MIT, and Harvard
