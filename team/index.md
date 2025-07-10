@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-The Sun Lab prioritizes a collegial environment where every member of our team feels supported to tackle important scientific questions together. If you are interested in joining our team, please see [Contact](//contact) for more details.
+The Sun Lab prioritizes a collegial environment where every member of our team feels supported to tackle important scientific questions together. If you are interested in joining our team, please see [Contact](../contact) for more details.
 
 {% include section.html %}
 
