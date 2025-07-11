@@ -8,7 +8,7 @@ links:
   twitter: EricDSun
   orcid: 0000-0001-8805-9864
   google-scholar: 1BMbcSMAAAAJ
-  curriculum-vitae: ../files/CV.pdf
+  curriculum-vitae: https://sunlab.mit.edu/files/CV.pdf
 ---
 ##### Assistant Professor of Biological Engineering, MIT
 ##### Member, Ragon Institute of MGB, MIT, and Harvard
