@@ -1,17 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.61373/gp025k.0065
-  title: 'Eric Sun: Understanding brain aging at spatial and single-cell resolution
-    with machine learning'
-  authors:
-  - <ins>Eric D. Sun</ins>
-  publisher: Genomic Psychiatry
-  date: '2025-06-24'
-  link: https://doi.org/g9scrk
-  orcid: 0000-0001-8805-9864
-  plugin: sources.py
-  file: sources.yaml
-  image: https://gp.genomicpress.com/wp-content/uploads/2023/09/Cover-2b.jpg
 - id: doi:10.1038/s41586-024-08334-8
   title: Spatial transcriptomic clocks reveal cell proximity effects in brain ageing
   authors:
