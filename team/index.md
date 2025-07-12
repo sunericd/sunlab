@@ -22,7 +22,7 @@ The Sun Lab prioritizes a collegial environment where every member of our team f
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-# Photos from Sun Lab activities (coming soon!)
+# Photos from the Sun Lab (coming soon!)
 
 {% include section.html %}
 
@@ -31,13 +31,3 @@ The Sun Lab prioritizes a collegial environment where every member of our team f
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
