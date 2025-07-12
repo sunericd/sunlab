@@ -31,3 +31,5 @@ The Sun Lab prioritizes a collegial environment where every member of our team f
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
+
+{% endcapture %}
