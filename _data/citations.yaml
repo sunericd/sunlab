@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2025.11.30.691355
+  title: 'SpatialProp: tissue perturbation modeling with spatially resolved single-cell
+    transcriptomics'
+  authors:
+  - Eric D. Sun
+  - Alejandro Buendia
+  - Anne Brunet
+  - James Zou
+  publisher: openRxiv
+  date: '2025-12-02'
+  link: https://doi.org/hbfjdm
+  orcid: 0000-0001-8805-9864
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41586-024-08334-8
   title: Spatial transcriptomic clocks reveal cell proximity effects in brain ageing
   authors:
