@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41587-025-02963-8
+  title: Exploring the use of AI authors and reviewers at Agents4Science
+  authors:
+  - Federico Bianchi
+  - Owen Queen
+  - Nitya Thakkar
+  - Eric Sun
+  - James Zou
+  publisher: Nature Biotechnology
+  date: '2025-12-17'
+  link: https://doi.org/hbggvv
+  orcid: 0000-0001-8805-9864
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2025.11.30.691355
   title: 'SpatialProp: tissue perturbation modeling with spatially resolved single-cell
     transcriptomics'
@@ -290,3 +304,19 @@
   plugin: sources.py
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982220307399-gr1.jpg
+- id: doi:10.1101/2025.06.03.657517
+  title: 'CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing
+    Biological Data'
+  authors:
+  - Samuel Alber
+  - Bowen Chen
+  - Eric Sun
+  - Alina Isakova
+  - Aaron J. Wilk
+  - James Zou
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-06-04'
+  link: https://doi.org/hbfnb2
+  orcid: 0000-0001-8805-9864
+  plugin: orcid.py
+  file: orcid.yaml
