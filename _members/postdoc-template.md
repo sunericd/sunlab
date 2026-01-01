@@ -1,11 +1,11 @@
 ---
-name: First Last
+name: Yinuo Cheng
 image: images/photo.jpg
-role: postdoc
+role: masters
 group: alum
 links:
   email: placeholder@mit.edu
   github: john-doe
 ---
 
-Placeholder for Postdoc
+MS student at Harvard Computational Biology
