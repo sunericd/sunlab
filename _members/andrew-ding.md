@@ -2,6 +2,7 @@
 name: Andrew Ding
 image: images/andrewding.webp
 role: phd
+affiliation: MIT BE
 links:
   email: azding@mit.edu
 ---
