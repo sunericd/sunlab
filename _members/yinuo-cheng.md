@@ -1,10 +1,9 @@
 ---
 name: Yinuo Cheng
-image: images/photo.jpg
+image: images/yinuocheng.webp
 role: masters
 links:
-  email: placeholder@mit.edu
-  github: john-doe
+  email: yinuo_cheng@hsph.harvard.edu
 ---
 
-MS student at Harvard Computational Biology
+Yinuo obtained his B.S. from Sun Yat-sen University and is currently pursuing a master’s degree at Harvard. His research interests focus on AI for science, with a particular emphasis on aging. He is excited about decoding aging by encoding it into models.
