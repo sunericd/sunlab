@@ -1,6 +1,6 @@
 ---
 name: Eric Sun
-image: images/ericdsun.webp
+image: images/ericdsun.png
 role: principal-investigator
 affiliation: MIT BE, Ragon Institute
 links:
