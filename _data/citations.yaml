@@ -78,7 +78,7 @@
   orcid: 0000-0001-8805-9864
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41587-025-02963-8/MediaObjects/41587_2025_2963_Fig1_HTML.png
+  image: https://agents4science.stanford.edu/img/header_new.png
 - id: doi:10.64898/2025.11.30.691355
   title: 'SpatialProp: tissue perturbation modeling with spatially resolved single-cell
     transcriptomics'
