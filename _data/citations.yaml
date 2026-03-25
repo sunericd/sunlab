@@ -1,5 +1,66 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41592-026-03029-6
+  title: 'CellVoyager: AI CompBio agent generates new insights by autonomously analyzing
+    biological data'
+  authors:
+  - Samuel Alber
+  - Bowen Chen
+  - Eric Sun
+  - Alina Isakova
+  - Aaron J. Wilk
+  - James Zou
+  publisher: Nature Methods
+  date: '2026-03-17'
+  link: https://doi.org/hbtf54
+  orcid: 0000-0001-8805-9864
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4103/NRR.NRR-D-25-01687
+  title: "Machine learning\u2013based brain aging clocks: Tools for deeper insight\
+    \ into neural aging and rejuvenation"
+  authors:
+  - Andrew Z. Ding
+  - Eric D. Sun
+  publisher: Neural Regeneration Research
+  date: '2026-03-14'
+  link: https://doi.org/hbtf55
+  orcid: 0000-0001-8805-9864
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.immuni.2026.01.016
+  title: Targeting immune cells in the aged brain reveals that engineered cytokine
+    IL-10 enhances neurogenesis and improves cognition
+  authors:
+  - Paloma Navarro Negredo
+  - Justin You
+  - Max Hauptschein
+  - Adam B. Schroer
+  - Daniel J. Richard
+  - Gita C. Abhiraman
+  - Andy P. Tsai
+  - Eric D. Sun
+  - Giulia Notarangelo
+  - Julliana Ramirez-Matias
+  - Olivia Y. Zhou
+  - Matthew T. Buckley
+  - Karen E. Malacon
+  - Lucy Xu
+  - Juliana Sucharov
+  - Eduardo Ramirez Lopez
+  - Lora Picton
+  - Tony Wyss-Coray
+  - Robert A. Saxton
+  - Ricardo A. Fernandes
+  - Saul A. Villeda
+  - K. Christopher Garcia
+  - Anne Brunet
+  publisher: Immunity
+  date: '2026-02-01'
+  link: https://doi.org/hbqgwq
+  orcid: 0000-0001-8805-9864
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41587-025-02963-8
   title: Exploring the use of AI authors and reviewers at Agents4Science
   authors:
