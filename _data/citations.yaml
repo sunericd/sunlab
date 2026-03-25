@@ -6,7 +6,7 @@
   authors:
   - Samuel Alber
   - Bowen Chen
-  - Eric Sun
+  - <ins>Eric D. Sun</ins>
   - Alina Isakova
   - Aaron J. Wilk
   - James Zou
@@ -14,20 +14,22 @@
   date: '2026-03-17'
   link: https://doi.org/hbtf54
   orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-026-03029-6/MediaObjects/41592_2026_3029_Fig1_HTML.png
 - id: doi:10.4103/NRR.NRR-D-25-01687
-  title: "Machine learning\u2013based brain aging clocks: Tools for deeper insight\
-    \ into neural aging and rejuvenation"
+  title: 'Machine learning-based brain aging clocks: Tools for deeper insight into
+    neural aging and rejuvenation'
   authors:
-  - Andrew Z. Ding
-  - Eric D. Sun
+  - <ins>Andrew Z. Ding</ins>
+  - <ins>Eric D. Sun</ins><sup>+</sup>
   publisher: Neural Regeneration Research
   date: '2026-03-14'
   link: https://doi.org/hbtf55
   orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://images.journals.lww.com/nrronline/PdfPageImage.01300535-990000000-01259.0.jpeg
 - id: doi:10.1016/j.immuni.2026.01.016
   title: Targeting immune cells in the aged brain reveals that engineered cytokine
     IL-10 enhances neurogenesis and improves cognition
@@ -39,7 +41,7 @@
   - Daniel J. Richard
   - Gita C. Abhiraman
   - Andy P. Tsai
-  - Eric D. Sun
+  - <ins>Eric D. Sun</ins>
   - Giulia Notarangelo
   - Julliana Ramirez-Matias
   - Olivia Y. Zhou
@@ -59,36 +61,39 @@
   date: '2026-02-01'
   link: https://doi.org/hbqgwq
   orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.cell.com/cms/10.1016/j.immuni.2026.01.016/asset/e04b592d-5e82-4b19-837d-1679a9b577a4/main.assets/fx1.jpg
 - id: doi:10.1038/s41587-025-02963-8
   title: Exploring the use of AI authors and reviewers at Agents4Science
   authors:
   - Federico Bianchi
   - Owen Queen
   - Nitya Thakkar
-  - Eric Sun
+  - <ins>Eric D. Sun</ins>
   - James Zou
   publisher: Nature Biotechnology
   date: '2025-12-17'
   link: https://doi.org/hbggvv
   orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41587-025-02963-8/MediaObjects/41587_2025_2963_Fig1_HTML.png
 - id: doi:10.64898/2025.11.30.691355
   title: 'SpatialProp: tissue perturbation modeling with spatially resolved single-cell
     transcriptomics'
   authors:
-  - Eric D. Sun
-  - Alejandro Buendia
+  - <ins>Eric D. Sun</ins><sup>*,+</sup>
+  - Alejandro Buendia<sup>*</sup>
   - Anne Brunet
   - James Zou
   publisher: openRxiv
   date: '2025-12-02'
   link: https://doi.org/hbfjdm
   orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/bioarxiv.webp
 - id: doi:10.1038/s41586-024-08334-8
   title: Spatial transcriptomic clocks reveal cell proximity effects in brain ageing
   authors:
@@ -365,19 +370,3 @@
   plugin: sources.py
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982220307399-gr1.jpg
-- id: doi:10.1101/2025.06.03.657517
-  title: 'CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing
-    Biological Data'
-  authors:
-  - Samuel Alber
-  - Bowen Chen
-  - Eric Sun
-  - Alina Isakova
-  - Aaron J. Wilk
-  - James Zou
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-04'
-  link: https://doi.org/hbfnb2
-  orcid: 0000-0001-8805-9864
-  plugin: orcid.py
-  file: orcid.yaml
