@@ -22,6 +22,69 @@
 #- id: doi:10.7554/eLife.32822
 #  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
 
+- id: doi:10.1038/s41592-026-03029-6
+  authors:
+  - Samuel Alber
+  - Bowen Chen
+  - <ins>Eric D. Sun</ins>
+  - Alina Isakova
+  - Aaron J. Wilk
+  - James Zou
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-026-03029-6/MediaObjects/41592_2026_3029_Fig1_HTML.png
+
+- id: doi:10.4103/NRR.NRR-D-25-01687
+  title: Machine learning-based brain aging clocks: Tools for deeper insight into neural aging and rejuvenation
+  authors:
+  - <ins>Andrew Z. Ding</ins>
+  - <ins>Eric D. Sun</ins>
+  image: https://images.journals.lww.com/nrronline/PdfPageImage.01300535-990000000-01259.0.jpeg
+
+- id: doi:10.1016/j.immuni.2026.01.016
+  title: Targeting immune cells in the aged brain reveals that engineered cytokine IL-10 enhances neurogenesis and improves cognition
+  authors:
+  - Paloma Navarro Negredo
+  - Justin You
+  - Max Hauptschein
+  - Adam B. Schroer
+  - Daniel J. Richard
+  - Gita C. Abhiraman
+  - Andy P. Tsai
+  - <ins>Eric D. Sun</ins>
+  - Giulia Notarangelo
+  - Julliana Ramirez-Matias
+  - Olivia Y. Zhou
+  - Matthew T. Buckley
+  - Karen E. Malacon
+  - Lucy Xu
+  - Juliana Sucharov
+  - Eduardo Ramirez Lopez
+  - Lora Picton
+  - Tony Wyss-Coray
+  - Robert A. Saxton
+  - Ricardo A. Fernandes
+  - Saul A. Villeda
+  - K. Christopher Garcia
+  - Anne Brunet
+  image: https://www.cell.com/cms/10.1016/j.immuni.2026.01.016/asset/e04b592d-5e82-4b19-837d-1679a9b577a4/main.assets/fx1.jpg
+
+- id: doi:10.1038/s41587-025-02963-8
+  title: Exploring the use of AI authors and reviewers at Agents4Science
+  authors:
+  - Federico Bianchi
+  - Owen Queen
+  - Nitya Thakkar
+  - <ins>Eric D. Sun</ins>
+  - James Zou
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41587-025-02963-8/MediaObjects/41587_2025_2963_Fig1_HTML.png
+
+- id: doi:10.64898/2025.11.30.691355
+  authors:
+  - <ins>Eric D. Sun</ins><sup>*</sup>
+  - Alejandro Buendia<sup>*</sup>
+  - Anne Brunet
+  - James Zou
+  image: bioarxiv.webp
+  
 - id: doi:10.1016/j.neuron.2024.12.007
   authors:
     - <ins>Eric D. Sun</ins><sup>*</sup>
