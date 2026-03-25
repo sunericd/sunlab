@@ -36,7 +36,7 @@
   title: Machine learning-based brain aging clocks: Tools for deeper insight into neural aging and rejuvenation
   authors:
   - <ins>Andrew Z. Ding</ins>
-  - <ins>Eric D. Sun</ins>
+  - <ins>Eric D. Sun</ins><sup>+</sup>
   image: https://images.journals.lww.com/nrronline/PdfPageImage.01300535-990000000-01259.0.jpeg
 
 - id: doi:10.1016/j.immuni.2026.01.016
@@ -79,7 +79,7 @@
 
 - id: doi:10.64898/2025.11.30.691355
   authors:
-  - <ins>Eric D. Sun</ins><sup>*</sup>
+  - <ins>Eric D. Sun</ins><sup>*,+</sup>
   - Alejandro Buendia<sup>*</sup>
   - Anne Brunet
   - James Zou
