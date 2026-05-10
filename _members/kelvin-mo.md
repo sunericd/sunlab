@@ -2,7 +2,6 @@
 name: Kelvin Mo
 image: images/kelvinmo.webp
 role: phd
-affiliation: Harvard BBS
 links:
   email: kelvinmo@g.harvard.edu
   twitter: Kelvin_Mo25
