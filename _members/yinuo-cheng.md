@@ -2,7 +2,6 @@
 name: Yinuo Cheng
 image: images/yinuocheng.webp
 role: masters
-affiliation: Harvard
 links:
   email: yinuo_cheng@hsph.harvard.edu
 ---
