@@ -12,10 +12,10 @@ phd:
   description: PhD Student
 
 undergrad:
-  description: Undergraduate Student
+  description: Undergraduate
 
 masters:
-  description: Masters Student
+  description: MS Student
 
 technician:
   description: Technician
