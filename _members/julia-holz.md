@@ -2,6 +2,7 @@
 name: Julia Holz
 image: images/juliaholz.webp
 role: phd
+affiliation: MIT CSB
 links:
   email: jholz@mit.edu
 ---
