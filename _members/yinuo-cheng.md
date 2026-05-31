@@ -2,6 +2,7 @@
 name: Yinuo Cheng
 image: images/yinuocheng.webp
 role: masters
+affiliation: Harvard CBQG
 links:
   email: yinuo_cheng@hsph.harvard.edu
 ---
