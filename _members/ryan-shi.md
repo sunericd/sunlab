@@ -1,6 +1,7 @@
 ---
 name: Ryan Shi
 role: masters
+affiliation: Harvard CBQG
 links:
   email: cshi@mgb.harvard.edu
 ---
