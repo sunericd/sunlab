@@ -2,6 +2,7 @@
 name: Victoria Alkin
 image: images/victoriaalkin.webp
 role: phd
+affiliation: Harvard BBS
 links:
   email: victoria_alkin@g.harvard.edu
 ---
