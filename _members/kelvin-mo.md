@@ -6,7 +6,7 @@ affiliation: Harvard BBS
 links:
   email: kelvinmo@g.harvard.edu
   twitter: Kelvin_Mo25
-  linked-in: www.linkedin.com/in/kelvin-mo
+  linked-in: kelvin-mo
   google-scholar: zlZ0Kp0AAAAJ
 ---
 
