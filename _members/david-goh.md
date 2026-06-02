@@ -5,9 +5,9 @@ role: phd
 affiliation: HST MEMP
 links:
   email: davidgoh@mit.edu
-  github: https://github.com/gohdavid
-  google-scholar: https://scholar.google.com/citations?user=vDkwVcYAAAAJ&hl
-  orcid: https://orcid.org/0009-0005-2636-5870
+  github: gohdavid
+  google-scholar: vDkwVcYAAAAJ&hl
+  orcid: 0009-0005-2636-5870
   website: https://gohdavid.com
 ---
 
