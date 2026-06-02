@@ -5,7 +5,7 @@ role: phd
 affiliation: Harvard BBS
 links:
   email: victoria_alkin@g.harvard.edu
-  linked-in: victoria-alkin
+  linkedin: victoria-alkin
   github: victoria-alkin
 ---
 
