@@ -11,6 +11,10 @@ Aging is the greatest risk factor for a broad range of chronic diseases. We have
 
 ## Research Areas
 
+{% include figure.html image="images/LabVennDiagram.png" width="60%" %}
+
+## Research Directions
+
 {% capture text %}
 
 We are interested in the biological underpinnings of aging. We integrate theoretical, computational (including AI/ML), and experimental approaches to model and understand aging systems and how they respond to different perturbations. These include several projects that extend the framework of "aging clocks" to track aging across multiple biological scales. We use that understanding to inform the rational discovery and design of "rejuvenation" interventions to slow or reverse aspects of age-related decline.
