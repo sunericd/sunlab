@@ -16,7 +16,7 @@ We develop new computational and machine learning models to study complex biolog
 
 {%
   include figure.html
-  image="images/LabVennDiagram.png"
+  image="images/GroupPhotoReduced.jpeg"
   width="70%"
 %}
 
