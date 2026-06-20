@@ -2,6 +2,7 @@
 name: Hannah Mu
 role: undergrad
 affiliation: MIT BE
+image: images/hannahmu.webp
 links:
   email: han_mu@mit.edu
 ---
