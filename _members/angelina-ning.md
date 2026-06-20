@@ -1,5 +1,6 @@
 ---
 name: Angelina Ning
+image: images/angelinaning.webp
 role: undergrad
 affiliation: MIT Math & CS
 links:
