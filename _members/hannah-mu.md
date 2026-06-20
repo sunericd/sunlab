@@ -1,8 +1,8 @@
 ---
 name: Hannah Mu
+image: images/hannahmu.webp
 role: undergrad
 affiliation: MIT BE
-image: images/hannahmu.webp
 links:
   email: han_mu@mit.edu
 ---
