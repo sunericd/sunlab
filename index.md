@@ -17,7 +17,7 @@ We develop new computational and machine learning models to study complex biolog
 {%
   include figure.html
   image="images/GroupPhotoReduced.jpeg"
-  width="90%"
+  width="100%"
 %}
 
 <!-- this is commented out {%
