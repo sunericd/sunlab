@@ -1,5 +1,6 @@
 ---
 name: Ryan Shi
+image: images/ryanshi.webp
 role: masters
 affiliation: Harvard CBQG
 links:
