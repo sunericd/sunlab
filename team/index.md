@@ -22,14 +22,15 @@ The Sun Lab prioritizes a collegial environment where every member of our team f
 
 {% include section.html background="images/background.webp" dark=true %}
 
-# Photos from the Sun Lab (coming soon!)
+# Photos from the Sun Lab
 
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/firstlabmeeting.jpeg" %}
+{% include figure.html image="images/squash.jpg" %}
+{% include figure.html image="images/pagu.jpg" %}
+{% include figure.html image="images/pizza2026.jpeg" %}
 
 {% endcapture %}
