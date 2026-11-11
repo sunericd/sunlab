@@ -21,3 +21,16 @@ The Sun Lab prioritizes a collegial environment where every member of our team f
 {% include list.html data="members" component="portrait" filter="role == 'technician'" %}
 
 {% include section.html background="images/background.webp" dark=true %}
+
+# Photos from the Sun Lab
+
+{% include section.html %}
+
+{% capture content %}
+
+{% include figure.html image="images/firstlabmeeting.jpeg" %}
+{% include figure.html image="images/squash.jpeg" %}
+{% include figure.html image="images/pagu.jpeg" %}
+{% include figure.html image="images/pizza2026.jpg" %}
+
+{% endcapture %}
