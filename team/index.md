@@ -35,11 +35,7 @@ Sawyer VanZanten (Caltech SURF) - now Caltech undergrad
 
 {% include section.html %}
 
-{% capture content %}
-
 {% include figure.html image="images/firstlabmeeting.jpeg" %}
 {% include figure.html image="images/squash.jpeg" %}
 {% include figure.html image="images/pagu.jpeg" %}
 {% include figure.html image="images/pizza2026.jpg" %}
-
-{% endcapture %}
