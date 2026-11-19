@@ -35,7 +35,16 @@ The Sun Lab prioritizes a collegial environment where every member of our team f
 
 {% include section.html %}
 
-{% include figure.html image="images/firstlabmeeting.jpeg" %}
-{% include figure.html image="images/squash.jpeg" %}
-{% include figure.html image="images/pagu.jpeg" %}
 {% include figure.html image="images/pizza2026.jpg" %}
+### Dinner to kick off the semester (Fall 2026)
+
+{% include figure.html image="images/pagu.jpeg" %}
+### Dinner at Pagu (Summer 2026)
+
+{% include figure.html image="images/squash.jpeg" %}
+### Squash social (Summer 2026)
+
+{% include figure.html image="images/firstlabmeeting.jpeg" %}
+### First lab meeting (Winter 2026)
+
+
