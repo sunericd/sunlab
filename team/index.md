@@ -26,7 +26,7 @@ The Sun Lab prioritizes a collegial environment where every member of our team f
 
 # Lab Alums
 
-Sawyer VanZanten (Caltech SURF) - now Caltech undergrad
+**Sawyer VanZanten** (Caltech SURF) - now Caltech undergrad
 
 {% include section.html background="images/background.webp" dark=true %}
 
